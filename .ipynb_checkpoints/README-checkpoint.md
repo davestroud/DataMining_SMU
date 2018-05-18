@@ -1,4 +1,6 @@
-# <font color=blue Lab One: Visualization and Data Preprocessing</font>
+<img src="https://www.kdnuggets.com/images/data-science-developments-2017-key-trends-720.jpg" title="Data Science" />
+
+# Lab One: Visualization and Data Preprocessing
 ***
 You are to perform analysis of a data set: exploring the statistical summaries of the features, visualizing the attributes, and making conclusions from the visualizations and analysis. Follow the **CRISP-DM framework** in your analysis (you are not performing all of the CRISP-DM outline, only the portions relevant to understanding and visualization). **This report is worth 20% of the final grade.** Please upload a report (one per team) with all code used, visualizations, and text in a single document. The format of the document can be PDF, *.ipynb, or HTML. You can write the report in whatever format you like, but it is easiest to turn in the rendered iPython notebook.
 ***
