@@ -26,4 +26,6 @@ You are to perform analysis of a data set: exploring the statistical summaries o
 
 -  [5 points] Are there other features that could be added to the data or created from existing features? Which ones? • Exceptional Work (10 points total) • You have free reign to provide additional analyses. • One idea: implement dimensionality reduction, then visualize and interpret the results.
 
--  Exceptional Work [10 points total] • You have free reign to provide additional analyses. • One idea: implement dimensionality reduction, then visualize and interpret the results.
+## Exceptional Work (10 points total) 
+
+-  You have free reign to provide additional analyses. • One idea: implement dimensionality reduction, then visualize and interpret the results.
